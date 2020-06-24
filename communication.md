@@ -1,6 +1,6 @@
 # Communicating
 
-We are a distributed team, and a remote-first company. Often, we work asynchronously. Because of this, excellent written communication is crucial for the success of our projects. When we don't do a good job communicating, the wrong things get built, time gets wasted, and other misunderstandings occur.
+We are a distributed team, and a remote-first company. Most of the time, we work asynchronously. Because of this, excellent written communication is crucial for the success of our projects. When we don't do a good job communicating, the wrong things get built, time gets wasted, and other misunderstandings occur.
 
 Here is a living document that outlines techniques and processes we've adopted to successfully communicate well when collaborating asynchronously and remotely. We will continue to update this as we learn more and develop more techniques!
 
