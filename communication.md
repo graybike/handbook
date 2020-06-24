@@ -4,7 +4,15 @@ We are a distributed team, and a remote-first company. Most of the time, we work
 
 Here is a living document that outlines techniques and processes we've adopted to successfully communicate well when collaborating asynchronously and remotely. We will continue to update this as we learn more and develop more techniques!
 
-## General Communication
+## A note on emotion & tone
+
+It's really hard to convey tone and emotion via text messages. It's very easy to misinterpret these or take a message the wrong way. 
+
+When sending a message, always ask yourself: Is this conveying my intent correctly? Does this come off as short, angry, frustrated, or rude? If it can be misinterpreted at all, consider rewriting it so that your intent is clear. In all cases, try to be extra polite in all your communication. It makes communication go more smoothly, and will help you develop better relationships with your colleagues. 
+
+When receiving a message, always assume positive intent. A message that appears short, or angry, might just mean that the sender sent it hastily and wasn't necessarily upset. However, if there _is_ ambiguity in a message's intent or emotion, be explicit and ask for tonal clarity: "I'm reading this as frustrated, am I getting that right?"
+
+## General Tips for Asynchronous Communication
 
 - **Provide all the information you can for the recipient.** We work asynchronously. This means that when you send a message, someone may not read it until a later time, perhaps when you are unavailable to answer clarifying questions. Provide all the information you can in your message to ensure the recipient understands, and has all the information they ned to respond or take action.
 
