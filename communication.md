@@ -58,7 +58,11 @@ Let me know if you have any questions!
 
 ## Slack
 
-- **Prefix messages with [FYI] or [action required].** [Stolen from our friends at Cylinder Digital](https://medium.com/cylinder-blog/how-to-conserve-your-precious-attention-span-92b869b88e81), this is a great way to let someone know if an immediate response is needed to a message, or if something is non-urgent and doesn't need a response.
+- **Prefix messages so people know if action is needed.** [Stolen and adapted from our friends at Cylinder Digital](https://medium.com/cylinder-blog/how-to-conserve-your-precious-attention-span-92b869b88e81), this is a great way to let someone know if an immediate response is needed to a message, or if something is non-urgent and doesn't need a response. You can use:
+  - [Action Required]: This requires immediate action or response.
+  - [Not Urgent]: This request a response, but it's not urgent -- the receiver can get back to you at a later time. It can help to specify when you need a response by.
+  - [No Response Needed]: This is great for updates, links or info you're sharing, or anything that doesn't require a response.
+
 
 - **Use `-internal` and `-client` channels appropriately.** You may be a member of 2 channels in our Slack group -- one for our internal communication, and one for client-facing communication. Things like general updates on progress, questions for the client, and responses to client questions belog in the `-client` channel. Most other things will belong in an `-internal` channel. When in doubt, keep it `-internal`.
 
