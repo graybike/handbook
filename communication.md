@@ -1,8 +1,12 @@
 # Communicating
 
+We are a distributed team, and a remote-first company. Often, we work asynchronously. Because of this, excellent written communication is crucial for the success of our projects. When we don't do a good job communicating, the wrong things get built, time gets wasted, and other misunderstandings occur.
+
+Here is a living document that outlines techniques and processes we've adopted to successfully communicate well when collaborating asynchronously and remotely. We will continue to update this as we learn more and develop more techniques!
+
 ## General Communication
 
-- **Provide all the information you can for the recipient.** We are a remote-first company. This means that when you send a message, someone may not get to it until a later time, perhaps when you are unavailable to answer clarifying questions. Provide all the information you can in your message to ensure the recipient understands, and has all the information they ned to respond or take action.
+- **Provide all the information you can for the recipient.** We work asynchronously. This means that when you send a message, someone may not read it until a later time, perhaps when you are unavailable to answer clarifying questions. Provide all the information you can in your message to ensure the recipient understands, and has all the information they ned to respond or take action.
 
 - **Collect all questions together.** When discussing complex topics, you may have several questions throughout your message. It’s much easier to process (and track responses) if you collect them together and present them at once instead of peppered throughout your message.
 
