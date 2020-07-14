@@ -37,7 +37,7 @@ pavan: let me know if you have any questions!
 
 This is good (1 message):
 ```
-me: The way to test the new feature is a bit tricky. Here are the steps:
+pavan: The way to test the new feature is a bit tricky. Here are the steps:
 
 1. First, you have to log into a dummy account.
 2. Then, create a new project.
