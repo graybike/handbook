@@ -21,6 +21,10 @@ Here is how we manage that:
 
 We use [Everhour](https://everhour.com/) to track our time. You will receive an invite to Everhour as part of your onboarding.
 
+
+
 Once you've set up your Everhour account, you should install [the Everhour time tracking extension](https://everhour.com/extensions) in your browser of choice. Once installed, you can track time directly within the tasks that you are working on:
 
 ![Everhour time tracking within task](everhour-task.png)
+
+Every time you begin work on a ticket, be sure to start your timer or manually add your hours. This enables us to run reports, track budgets, and ensure we are billing our clients (and paying you) appropriately.
