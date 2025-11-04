@@ -23,4 +23,4 @@ We use [Everhour](https://everhour.com/) to track our time. You will receive an 
 
 Once you've set up your Everhour account, you should install [the Everhour time tracking extension](https://everhour.com/extensions) in your browser of choice. Once installed, you can track time directly within the tasks that you are working on:
 
-![everhour-task.png]
+![Everhour time tracking within task](everhour-task.png)
